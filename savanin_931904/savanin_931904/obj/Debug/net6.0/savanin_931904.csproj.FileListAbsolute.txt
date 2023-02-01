@@ -1,0 +1,15 @@
+C:\Users\savanin\source\repos\savanin_931904\savanin_931904\bin\Debug\net6.0\savanin_931904.exe
+C:\Users\savanin\source\repos\savanin_931904\savanin_931904\bin\Debug\net6.0\savanin_931904.deps.json
+C:\Users\savanin\source\repos\savanin_931904\savanin_931904\bin\Debug\net6.0\savanin_931904.runtimeconfig.json
+C:\Users\savanin\source\repos\savanin_931904\savanin_931904\bin\Debug\net6.0\savanin_931904.dll
+C:\Users\savanin\source\repos\savanin_931904\savanin_931904\bin\Debug\net6.0\ref\savanin_931904.dll
+C:\Users\savanin\source\repos\savanin_931904\savanin_931904\bin\Debug\net6.0\savanin_931904.pdb
+C:\Users\savanin\source\repos\savanin_931904\savanin_931904\obj\Debug\net6.0\savanin_931904.csproj.AssemblyReference.cache
+C:\Users\savanin\source\repos\savanin_931904\savanin_931904\obj\Debug\net6.0\savanin_931904.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\savanin\source\repos\savanin_931904\savanin_931904\obj\Debug\net6.0\savanin_931904.AssemblyInfoInputs.cache
+C:\Users\savanin\source\repos\savanin_931904\savanin_931904\obj\Debug\net6.0\savanin_931904.AssemblyInfo.cs
+C:\Users\savanin\source\repos\savanin_931904\savanin_931904\obj\Debug\net6.0\savanin_931904.csproj.CoreCompileInputs.cache
+C:\Users\savanin\source\repos\savanin_931904\savanin_931904\obj\Debug\net6.0\savanin_931904.dll
+C:\Users\savanin\source\repos\savanin_931904\savanin_931904\obj\Debug\net6.0\ref\savanin_931904.dll
+C:\Users\savanin\source\repos\savanin_931904\savanin_931904\obj\Debug\net6.0\savanin_931904.pdb
+C:\Users\savanin\source\repos\savanin_931904\savanin_931904\obj\Debug\net6.0\savanin_931904.genruntimeconfig.cache
